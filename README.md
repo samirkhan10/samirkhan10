@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @samirkhan10
-- 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning  Android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey there, I'm Samir Khan 👋 👨‍💻!
 
-<!---
-samirkhan10/samirkhan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Freelance Android Engineer who is passionate about making modern mobile applications for International clients. With over 1 years of working experience as a Freelance Software Engineer.
