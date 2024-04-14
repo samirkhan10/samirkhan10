@@ -1,3 +1,3 @@
-Hey there, I'm Samir Khan 👋 👨‍💻!
+I'm a dynamic mobile app developer with 3 years of experience in native Android and Flutter development. Passionate about crafting user-centric solutions, I'm dedicated to staying at the forefront of technology.
 
-I am a Freelance Mobile App Engineer who is passionate about making modern mobile applications for clients. With over 3 years of working experience as a Freelance Software Engineer.
+Alongside my development work, I run a YouTube channel where I host podcasts with guests from over 30 countries, exploring diverse perspectives and insights from around the world. I find immense joy in sharing knowledge and experiences, both in the realm of technology and beyond.
